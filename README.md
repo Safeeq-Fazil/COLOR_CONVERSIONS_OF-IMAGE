@@ -156,10 +156,8 @@ cv2.destroyAllWindows()
 
 
 ## Output:
-![image](https://github.com/Safeeq-Fazil/COLOR_CONVERSIONS_OF-IMAGE/assets/118680361/5c546600-bb26-44e9-8367-8b834f5496f9)
-![image](https://github.com/Safeeq-Fazil/COLOR_CONVERSIONS_OF-IMAGE/assets/118680361/ad14a02c-65c4-41a5-b6c6-eb5d758f9939)
-![image](https://github.com/Safeeq-Fazil/COLOR_CONVERSIONS_OF-IMAGE/assets/118680361/d9cedd42-46b4-40b0-b412-3c654509cb0e)
-![image](https://github.com/Safeeq-Fazil/COLOR_CONVERSIONS_OF-IMAGE/assets/118680361/0c0b2b0b-2cfc-40d4-aaf4-f3e0bf1129db)
+![image](https://github.com/Safeeq-Fazil/COLOR_CONVERSIONS_OF-IMAGE/assets/118680361/9c4597b4-6485-4c82-b69c-8236c6dbcd2a)
+
 
 
 
@@ -185,9 +183,8 @@ cv2.destroyAllWindows()
 ![image](https://github.com/Safeeq-Fazil/COLOR_CONVERSIONS_OF-IMAGE/assets/118680361/6debc082-d0f0-42af-a8f8-d3d8255f786c)
 
 ##Output:
-![image](https://github.com/Safeeq-Fazil/COLOR_CONVERSIONS_OF-IMAGE/assets/118680361/32c9a4ee-d17f-4f21-9cea-8eaa052236e1)
-![image](https://github.com/Safeeq-Fazil/COLOR_CONVERSIONS_OF-IMAGE/assets/118680361/4978fdd0-1bd4-42b2-a993-299700a470c3)
-![image](https://github.com/Safeeq-Fazil/COLOR_CONVERSIONS_OF-IMAGE/assets/118680361/537a06fc-1843-44cc-817b-c5473937f060)
+![image](https://github.com/Safeeq-Fazil/COLOR_CONVERSIONS_OF-IMAGE/assets/118680361/0879f091-70a4-40c6-ac98-0cab785ab4fb)
+
 
 
 ### viii) RGB and BGR to YCrCb
@@ -208,9 +205,7 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 ## Output:
-![image](https://github.com/Safeeq-Fazil/COLOR_CONVERSIONS_OF-IMAGE/assets/118680361/dfe74a8d-5f6d-4dec-abea-f1f7c3682524)
-![image](https://github.com/Safeeq-Fazil/COLOR_CONVERSIONS_OF-IMAGE/assets/118680361/baba940f-c086-4e91-b902-0b0397a08f72)
-![image](https://github.com/Safeeq-Fazil/COLOR_CONVERSIONS_OF-IMAGE/assets/118680361/a4069e7f-3a12-487a-b790-d7e8f4b79270)
+![image](https://github.com/Safeeq-Fazil/COLOR_CONVERSIONS_OF-IMAGE/assets/118680361/2d6cf96f-440d-431f-a31e-185712caf501)
 
 
 ### ix) Split and merge RGB Image
@@ -238,9 +233,7 @@ cv2.destroyAllWindows()
 ## OUTPUT:
 ### Channels
 
-![image](https://github.com/Safeeq-Fazil/COLOR_CONVERSIONS_OF-IMAGE/assets/118680361/8f3fda40-b181-40bd-a924-721123c4008a)
-![image](https://github.com/Safeeq-Fazil/COLOR_CONVERSIONS_OF-IMAGE/assets/118680361/f48592c4-1a86-4f3d-9468-35dc701deb50)
-![image](https://github.com/Safeeq-Fazil/COLOR_CONVERSIONS_OF-IMAGE/assets/118680361/17d92fc6-5e69-4c4c-a526-e8755f13588e)
+![image](https://github.com/Safeeq-Fazil/COLOR_CONVERSIONS_OF-IMAGE/assets/118680361/c3cc70b4-7764-4206-9202-0ca4d89612c6)
 
 ## Merged RGB
 ![image](https://github.com/Safeeq-Fazil/COLOR_CONVERSIONS_OF-IMAGE/assets/118680361/5564d346-224f-4116-85a8-ce6f4fb1ee45)
@@ -272,10 +265,7 @@ cv2.destroyAllWindows()
 ![image](https://github.com/Safeeq-Fazil/COLOR_CONVERSIONS_OF-IMAGE/assets/118680361/1dd10ff0-149a-4fe2-bd00-b20ae1a2e588)
 
 ## splitted
-![image](https://github.com/Safeeq-Fazil/COLOR_CONVERSIONS_OF-IMAGE/assets/118680361/72d2c812-69c6-47d7-a4fd-8297ceb8ff44)
-![image](https://github.com/Safeeq-Fazil/COLOR_CONVERSIONS_OF-IMAGE/assets/118680361/eede3efe-1950-4b4b-a36a-480b10f56181)
-![image](https://github.com/Safeeq-Fazil/COLOR_CONVERSIONS_OF-IMAGE/assets/118680361/5056a6f4-409f-4559-b3cb-6457b7e6fc44)
-![image](https://github.com/Safeeq-Fazil/COLOR_CONVERSIONS_OF-IMAGE/assets/118680361/980118ed-3062-4909-946d-ab37e36219a9)
+![image](https://github.com/Safeeq-Fazil/COLOR_CONVERSIONS_OF-IMAGE/assets/118680361/14ade301-6874-4387-929e-8cea2b457104)
 
 
 
